@@ -25,9 +25,9 @@ This tutorial is about deploying an application from an existing image (from Doc
 
 
 3) [Deploying Applications From Source](https://learn.openshift.com/introduction/deploying-python/):
-This tutorial uses a code repository on Github that holds a Python application. The Source-to-Image builder uses a Python template from the OpenShift catalog to create a Container image within OpenShift and deploys it, again without the developer touching any YAML files. Another method, binary build, creates the image from code on the developers workstation. These are the topics of this tutorial:  
+This tutorial uses a code repository on GitHub that holds a Python application. The Source-to-Image builder uses a Python template from the OpenShift catalog to create a Container image within OpenShift and deploys it, again without the developer touching any YAML files. Another method, binary build, creates the image from code on the developers workstation. These are the topics of this tutorial:  
    * Create a Project
-   * Source-to-Image (S2I) of a Python project in Github
+   * Source-to-Image (S2I) of a Python project in GitHub
    * Builder Logs
    * Accessing the application
    * Deleting the application via CLI
